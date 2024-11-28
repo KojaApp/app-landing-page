@@ -19,7 +19,7 @@ html {
 }
 
 header{
-    /* background-color: #fff;
+    /* background-color: #0A2540;
     color: #000; */
     color: #4b4b4b;
 }
@@ -210,7 +210,7 @@ header > .collapsible-header{
 /* Style for the collapsible content such as faq commonly known as: accordion */
 
 .faq{
-    background-color: #fff;
+    background-color: #0A2540;
     color: #000000;
     border: 1px solid #000;
 }
@@ -258,7 +258,7 @@ header > .collapsible-header{
         padding-top: 5%;
         padding-bottom: 5%;
         place-items: end;
-        background-color: #040404;
+        background-color: #0A2540;
         color: #ffffff;
         overflow-y: auto;
         box-shadow: 3px 0px 3px 2px #9f9f9f;
