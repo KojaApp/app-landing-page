@@ -98,6 +98,10 @@ header > .collapsible-header{
       animation-duration: 80s;
   }
 
+.hero-section{
+    background-color: #0A2540;
+}
+
 .opacity-0{
     opacity: 0 !important;
 }
