@@ -73,12 +73,14 @@ gsap.fromTo(".slide-in", {
     duration: 1,
 })
 
+/*
 const images = [
     "assets/images/home/hiking1.jpg",
     "assets/images/home/hiking2.jpg",
     "assets/images/home/hiking3.jpg",
     "assets/images/home/hiking4.jpg",
 ]
+*/
 
 function addSlideShowImages(img) {
 
