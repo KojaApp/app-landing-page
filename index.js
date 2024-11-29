@@ -99,14 +99,14 @@ function addSlideShowImages(img) {
 
 images.forEach(img => addSlideShowImages(img))
 
-const countries = ["United states", "Canada", "Mexico", "Brazil", "Argentina", "Sweden",
-    "Turkey", "England", "Ireland", "Finland", "Norway", "India", "Sri Lanka",
-    "China", "Russia", "Australia", "Singapore", "Malaysia"
+const countries = [
+    "Natwest", "Barclays", "Nationwide", "Santander", "Monzo", "Revolut",
+    "Starling", "Chase", "Halifax"
 ]
 
 const places = [
-"Eiffle Tower", "Great Wall of China", "Taj Mahal", 
-"Bali", "Maldives", "Leaning tower of Pisa", "Statue of Liberty",   
+"HSBC", "LLoyds Bank", "Metro Bank", 
+"Tesco Bank", "The Co-Operative Bank", "RBS", "Virgin Money",   
 ]
 
 
